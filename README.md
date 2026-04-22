@@ -91,7 +91,8 @@ A an√°lise identificou que o termo "figura" possui a maior centralidade devido √
 
 ---
 
-**Autores:** - Matheus Fernandes da Costa Gomes
+**Autores:** 
+- Matheus Fernandes da Costa Gomes
 - Thales Henrique de Almeida Varela
 
 **Disciplina:** Unidade 1 - Algoritmos e Estruturas de Dados 2
