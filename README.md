@@ -87,3 +87,12 @@ A análise identificou que o termo "figura" possui a maior centralidade devido �
    ```bash
    pip install spacy networkx pandas matplotlib
    python -m spacy download pt_core_news_lg
+
+
+---
+
+**Autores:** - Matheus Fernandes da Costa Gomes
+- Thales Henrique de Almeida Varela
+
+**Disciplina:** Unidade 1 - Algoritmos e Estruturas de Dados 2
+**Instituição:** Universidade Federal do Rio Grande do Norte (UFRN)
