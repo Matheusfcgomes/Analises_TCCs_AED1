@@ -11,7 +11,7 @@ Confira o notebook no link abaixo:
 
 ## 📺 Demonstração em Vídeo
 Confira a explicação detalhada do projeto e a análise dos resultados no link abaixo:
-> **[Link para o Vídeo no Loom]**
+> **https://www.loom.com/share/dc7d9ad87a7d4c13b321e1568c1f15f2**
 
 ---
 
