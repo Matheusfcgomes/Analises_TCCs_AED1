@@ -5,6 +5,10 @@
 ![NetworkX](https://img.shields.io/badge/networkx-black?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
+## Acesso ao Colab
+Confira o notebook no link abaixo:
+> **https://colab.research.google.com/drive/17eVJ7TAqC0wglpTi-fkLT0TFSMfrhUD5?usp=sharing**
+
 ## 📺 Demonstração em Vídeo
 Confira a explicação detalhada do projeto e a análise dos resultados no link abaixo:
 > **[Link para o Vídeo no Loom]**
